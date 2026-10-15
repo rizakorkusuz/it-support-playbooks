@@ -2,7 +2,7 @@
 
 Practical, vendor-neutral runbooks for first- and second-line IT support: what to ask, what to check in which order, what to write in the ticket and when to escalate. Written as reference and study material and kept free of any employer or customer information.
 
-**Roles this supports:** IT Support Specialist, Help Desk Specialist, Desktop Support Technician, Service Desk Analyst, Technical Support Specialist, Technical Support Engineer, IT Support Engineer, Deskside Support Technician, Field Service Technician.
+**Roles this supports:** Information Systems Technician, IT Support Specialist, Help Desk Specialist, Desktop Support Technician, Service Desk Analyst, Technical Support Specialist, Technical Support Engineer, IT Support Engineer, Deskside Support Technician, Field Service Technician.
 
 ## Playbooks
 
@@ -18,6 +18,12 @@ Practical, vendor-neutral runbooks for first- and second-line IT support: what t
 | 08 | [Deskside and field service](docs/08-deskside-and-field-service.md) | Visit checklist, toolkit, safety, wrap-up |
 | 09 | [macOS basics](docs/09-macos-basics.md) | Tools, common fixes, FileVault, privacy permissions, shortcuts |
 | 10 | [Intune and Autopilot study notes](docs/10-intune-autopilot-study-notes.md) | Concepts and a troubleshooting map (study notes only) |
+| 11 | [IMAC: installs, moves, adds and changes](docs/11-imac-and-device-lifecycle.md) | Five-phase IMAC method, verification checklist, inventory hygiene |
+| 12 | [Knowledge base and documentation](docs/12-knowledge-base-and-documentation.md) | Writing a service desk wiki, nine sample articles |
+| 13 | [Wired and wireless networks](docs/13-wired-and-wireless-networks.md) | Ownership boundaries, wired and Wi-Fi troubleshooting, documentation |
+| 14 | [Audio-visual and conference rooms](docs/14-av-and-conference-room-support.md) | Room sheets, pre-meeting check, symptom table, vendors |
+| 15 | [User training guides](docs/15-user-training-guides.md) | One-on-one method and quick guides |
+| 16 | [Web basics: HTML, JavaScript, XML](docs/16-web-basics-html-js.md) | Dev tools, troubleshooting table, HTTP codes, XML basics |
 
 The same pages are published as a browsable guide at <https://rizakorkusuz.com/it-support/>.
 
