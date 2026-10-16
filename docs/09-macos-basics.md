@@ -92,3 +92,7 @@ profiles list                    # installed configuration profiles (may need su
 ```
 
 Commands marked with `sudo` change the system. Understand them before use and follow policy on managed devices.
+
+## See also
+
+For phones and tablets read the iOS, Android and Mobile Device Support guide. For managed Mac deployment concepts read the Software Deployment and Imaging notes.

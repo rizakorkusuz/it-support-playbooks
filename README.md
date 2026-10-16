@@ -24,6 +24,12 @@ Practical, vendor-neutral runbooks for first- and second-line IT support: what t
 | 14 | [Audio-visual and conference rooms](docs/14-av-and-conference-room-support.md) | Room sheets, pre-meeting check, symptom table, vendors |
 | 15 | [User training guides](docs/15-user-training-guides.md) | One-on-one method and quick guides |
 | 16 | [Web basics: HTML, JavaScript, XML](docs/16-web-basics-html-js.md) | Dev tools, troubleshooting table, HTTP codes, XML basics |
+| 17 | [Microsoft Access basics](docs/17-ms-access-basics.md) | Tables, queries, forms and reports for support staff |
+| 18 | [Excel reporting and data queries](docs/18-excel-reporting-and-data-queries.md) | Reports, lookups, pivots and data queries |
+| 19 | [iOS, Android and mobile support](docs/19-ios-android-mobile-support.md) | Mobile device setup and troubleshooting |
+| 20 | [HTML, DHTML and XML basics](docs/20-html-xml-basics.md) | Reading and troubleshooting markup |
+| 21 | [Software deployment and imaging](docs/21-software-deployment-and-imaging.md) | SCCM-style concepts (study notes) |
+| 22 | [Enterprise systems, Business Objects and GIS](docs/22-enterprise-systems-and-gis-concepts.md) | Concepts only (study notes) |
 
 The same pages are published as a browsable guide at <https://rizakorkusuz.com/it-support/>.
 

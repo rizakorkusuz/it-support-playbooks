@@ -111,3 +111,7 @@ Include the URL, browser and version, steps to reproduce, expected and actual be
 ## 10. Practice project
 
 The `it-helpdesk-web-forms` repository contains a small HTML and JavaScript ticket-intake form with tests. Open it, break it on purpose (rename an element ID), and use the browser Console to find the error.
+
+## See also
+
+For DHTML, hand-coded HTML and XML validation read the HTML, DHTML and XML Basics guide.
